@@ -1,0 +1,1015 @@
+8.5183 	WARNING 	Font Manager failed to load file C:\Users\shiyang\AppData\Local\Microsoft\Windows\Fonts\仿宋_GB2312 (1).ttf
+8.8757 	WARNING 	Font Manager failed to load file C:\Users\shiyang\AppData\Local\Microsoft\Windows\Fonts\仿宋_GB2312 (1).ttf
+48.1658 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+48.5957 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F98B0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F9850>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F96A0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x00000215C48887C0>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+48.5958 	EXP 	window1: backgroundImage = ''
+48.5958 	EXP 	window1: backgroundFit = 'none'
+48.5961 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.5963 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.5989 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.5995 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.6644 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.6645 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.6652 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.6658 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x00000215C44F99D0>
+48.6896 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+48.6896 	EXP 	window1: recordFrameIntervals = False
+48.8253 	EXP 	window1: recordFrameIntervals = True
+49.0090 	EXP 	Screen (0) actual frame rate measured at 59.97Hz
+49.0090 	EXP 	window1: recordFrameIntervals = False
+49.0091 	EXP 	window1: mouseVisible = False
+54.3748 	EXP 	AB: status = STARTED
+54.3751 	EXP 	window1: mouseVisible = False
+54.5173 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.02, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+54.5174 	EXP 	window1: mouseVisible = False
+54.5187 	EXP 	Created cuesti = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='cuesti', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5188 	EXP 	window1: mouseVisible = False
+54.5202 	EXP 	Created cueblank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='cueblank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5203 	EXP 	window1: mouseVisible = False
+54.5210 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5211 	EXP 	window1: mouseVisible = False
+54.5217 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5218 	EXP 	window1: mouseVisible = False
+54.5224 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5225 	EXP 	window1: mouseVisible = False
+54.5232 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([ 1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5233 	EXP 	window1: mouseVisible = False
+54.5280 	EXP 	Created text_FLK1 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_FLK1', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='××', units='height', win=Window(...), wrapWidth=1)
+54.5281 	EXP 	window1: mouseVisible = False
+54.5311 	EXP 	Created text_FLK2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_FLK2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='××', units='height', win=Window(...), wrapWidth=1)
+54.5312 	EXP 	window1: mouseVisible = False
+54.5319 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5320 	EXP 	window1: mouseVisible = False
+54.5334 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5334 	EXP 	window1: mouseVisible = False
+54.5456 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='?\n\nOdd-F    Even-J', units='height', win=Window(...), wrapWidth=1)
+54.5457 	EXP 	window1: mouseVisible = False
+54.5473 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5474 	EXP 	window1: mouseVisible = False
+54.5488 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+54.5489 	EXP 	window1: mouseVisible = False
+54.5568 	EXP 	Created text_11 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1.,  1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_11', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='?\n\nRelated-F    Unrelated-J', units='height', win=Window(...), wrapWidth=1)
+54.5569 	EXP 	window1: mouseVisible = False
+54.5586 	EXP 	Created text_10 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_10', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0056 	EXP 	text: autoDraw = True
+1.0162 	EXP 	Imported wordlist1.csv as conditions, 5 conditions, 8 params
+1.0165 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+1.0167 	EXP 	New trial (rep=0, index=0): OrderedDict([('probe', '手部'), ('sectag', '脚部'), ('relatedu', ' f'), ('firstnum', '0:09'), ('dis1num', '0:02'), ('dis2num', '0:12'), ('bignum', '二二'), ('oddeven', 'f')])
+1.0224 	EXP 	text: autoDraw = False
+1.0224 	EXP 	text: autoDraw = False
+1.0224 	EXP 	cuesti: height = 0.05
+1.0224 	EXP 	cuesti: height = 0.05
+1.0224 	EXP 	cuesti: height = 0.05
+1.0224 	EXP 	cuesti: text = '手部'
+1.0224 	EXP 	cuesti: autoDraw = True
+1.9996 	EXP 	cueblank: autoDraw = True
+2.0329 	EXP 	cuesti: autoDraw = False
+2.9875 	EXP 	Imported distractorlist.csv as conditions, 9 conditions, 1 params
+2.9877 	EXP 	Created sequence: random, trialTypes=9, nReps=1, seed=None
+2.9878 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+2.9996 	EXP 	cueblank: autoDraw = False
+2.9996 	EXP 	cuesti: autoDraw = False
+2.9996 	EXP 	cueblank: autoDraw = False
+2.9996 	EXP 	text_3: height = 0.05
+2.9996 	EXP 	text_3: height = 0.05
+2.9996 	EXP 	text_3: height = 0.05
+2.9996 	EXP 	text_3: text = '姓败'
+2.9996 	EXP 	text_3: autoDraw = True
+3.0669 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '听唇')])
+3.0829 	EXP 	text_3: autoDraw = False
+3.0829 	EXP 	text_3: autoDraw = False
+3.0829 	EXP 	text_3: height = 0.05
+3.0829 	EXP 	text_3: height = 0.05
+3.0829 	EXP 	text_3: height = 0.05
+3.0829 	EXP 	text_3: text = '听唇'
+3.0829 	EXP 	text_3: autoDraw = True
+3.1500 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '味对')])
+3.1663 	EXP 	text_3: autoDraw = False
+3.1663 	EXP 	text_3: autoDraw = False
+3.1663 	EXP 	text_3: height = 0.05
+3.1663 	EXP 	text_3: height = 0.05
+3.1663 	EXP 	text_3: height = 0.05
+3.1663 	EXP 	text_3: text = '味对'
+3.1663 	EXP 	text_3: autoDraw = True
+3.2332 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '蜜缓')])
+3.2495 	EXP 	text_3: autoDraw = False
+3.2495 	EXP 	text_3: autoDraw = False
+3.2495 	EXP 	text_3: height = 0.05
+3.2495 	EXP 	text_3: height = 0.05
+3.2495 	EXP 	text_3: height = 0.05
+3.2495 	EXP 	text_3: text = '蜜缓'
+3.2495 	EXP 	text_3: autoDraw = True
+3.3168 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+3.3328 	EXP 	text_3: autoDraw = False
+3.3328 	EXP 	text_3: autoDraw = False
+3.3328 	EXP 	text_3: height = 0.05
+3.3328 	EXP 	text_3: height = 0.05
+3.3328 	EXP 	text_3: height = 0.05
+3.3328 	EXP 	text_3: text = '动加'
+3.3328 	EXP 	text_3: autoDraw = True
+3.3999 	EXP 	New trial (rep=0, index=5): OrderedDict([('dislist', '痒动')])
+3.4159 	EXP 	text_3: autoDraw = False
+3.4159 	EXP 	text_3: autoDraw = False
+3.4159 	EXP 	text_3: height = 0.05
+3.4159 	EXP 	text_3: height = 0.05
+3.4159 	EXP 	text_3: height = 0.05
+3.4159 	EXP 	text_3: text = '痒动'
+3.4159 	EXP 	text_3: autoDraw = True
+3.4829 	EXP 	New trial (rep=0, index=6): OrderedDict([('dislist', '流片')])
+3.4996 	EXP 	text_3: autoDraw = False
+3.4996 	EXP 	text_3: autoDraw = False
+3.4996 	EXP 	text_3: height = 0.05
+3.4996 	EXP 	text_3: height = 0.05
+3.4996 	EXP 	text_3: height = 0.05
+3.4996 	EXP 	text_3: text = '流片'
+3.4996 	EXP 	text_3: autoDraw = True
+3.5666 	EXP 	New trial (rep=0, index=7): OrderedDict([('dislist', '弱杏')])
+3.5830 	EXP 	text_3: autoDraw = False
+3.5830 	EXP 	text_3: autoDraw = False
+3.5830 	EXP 	text_3: height = 0.05
+3.5830 	EXP 	text_3: height = 0.05
+3.5830 	EXP 	text_3: height = 0.05
+3.5830 	EXP 	text_3: text = '弱杏'
+3.5830 	EXP 	text_3: autoDraw = True
+3.6504 	EXP 	New trial (rep=0, index=8): OrderedDict([('dislist', '头酒')])
+3.6665 	EXP 	text_3: autoDraw = False
+3.6665 	EXP 	text_3: autoDraw = False
+3.6665 	EXP 	text_3: height = 0.05
+3.6665 	EXP 	text_3: height = 0.05
+3.6665 	EXP 	text_3: height = 0.05
+3.6665 	EXP 	text_3: text = '头酒'
+3.6665 	EXP 	text_3: autoDraw = True
+3.7494 	EXP 	text_3: autoDraw = False
+3.7494 	EXP 	text_3: autoDraw = False
+3.7494 	EXP 	text_5: height = 0.05
+3.7494 	EXP 	text_5: height = 0.05
+3.7494 	EXP 	text_5: height = 0.05
+3.7494 	EXP 	text_5: text = '二二'
+3.8496 	EXP 	text_5: autoDraw = True
+3.9211 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+3.9213 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+3.9214 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+3.9330 	EXP 	text_5: autoDraw = False
+3.9330 	EXP 	text_5: autoDraw = False
+3.9330 	EXP 	text_3: height = 0.05
+3.9330 	EXP 	text_3: height = 0.05
+3.9330 	EXP 	text_3: height = 0.05
+3.9330 	EXP 	text_3: text = '姓败'
+3.9330 	EXP 	text_3: autoDraw = True
+4.0004 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '蜜缓')])
+4.0163 	EXP 	text_3: autoDraw = False
+4.0163 	EXP 	text_3: autoDraw = False
+4.0163 	EXP 	text_3: height = 0.05
+4.0163 	EXP 	text_3: height = 0.05
+4.0163 	EXP 	text_3: height = 0.05
+4.0163 	EXP 	text_3: text = '蜜缓'
+4.0163 	EXP 	text_3: autoDraw = True
+4.0829 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '动加')])
+4.0995 	EXP 	text_3: autoDraw = False
+4.0995 	EXP 	text_3: autoDraw = False
+4.0995 	EXP 	text_3: height = 0.05
+4.0995 	EXP 	text_3: height = 0.05
+4.0995 	EXP 	text_3: height = 0.05
+4.0995 	EXP 	text_3: text = '动加'
+4.0995 	EXP 	text_3: autoDraw = True
+4.1666 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '痒动')])
+4.1824 	EXP 	text_3: autoDraw = False
+4.1824 	EXP 	text_3: autoDraw = False
+4.1824 	EXP 	text_3: height = 0.05
+4.1824 	EXP 	text_3: height = 0.05
+4.1824 	EXP 	text_3: height = 0.05
+4.1824 	EXP 	text_3: text = '痒动'
+4.1824 	EXP 	text_3: autoDraw = True
+4.2500 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '头酒')])
+4.2662 	EXP 	text_3: autoDraw = False
+4.2662 	EXP 	text_3: autoDraw = False
+4.2662 	EXP 	text_3: height = 0.05
+4.2662 	EXP 	text_3: height = 0.05
+4.2662 	EXP 	text_3: height = 0.05
+4.2662 	EXP 	text_3: text = '头酒'
+4.2662 	EXP 	text_3: autoDraw = True
+4.3494 	EXP 	text_3: autoDraw = False
+4.3494 	EXP 	text_3: autoDraw = False
+4.3494 	EXP 	text_4: height = 0.05
+4.3494 	EXP 	text_4: height = 0.05
+4.3494 	EXP 	text_4: height = 0.05
+4.3494 	EXP 	text_4: text = '脚部'
+4.3494 	EXP 	text_FLK1: autoDraw = True
+4.4329 	EXP 	text_4: autoDraw = True
+4.4329 	EXP 	text_FLK1: autoDraw = False
+4.5158 	EXP 	text_4: autoDraw = False
+4.5158 	EXP 	text_FLK2: autoDraw = True
+4.5875 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+4.5877 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+4.5878 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '蜜缓')])
+4.5996 	EXP 	text_FLK2: autoDraw = False
+4.5996 	EXP 	text_4: autoDraw = False
+4.5996 	EXP 	text_FLK1: autoDraw = False
+4.5996 	EXP 	text_FLK2: autoDraw = False
+4.5996 	EXP 	text_3: height = 0.05
+4.5996 	EXP 	text_3: height = 0.05
+4.5996 	EXP 	text_3: height = 0.05
+4.5996 	EXP 	text_3: text = '蜜缓'
+4.5996 	EXP 	text_3: autoDraw = True
+4.6666 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '痒动')])
+4.6829 	EXP 	text_3: autoDraw = False
+4.6829 	EXP 	text_3: autoDraw = False
+4.6829 	EXP 	text_3: height = 0.05
+4.6829 	EXP 	text_3: height = 0.05
+4.6829 	EXP 	text_3: height = 0.05
+4.6829 	EXP 	text_3: text = '痒动'
+4.6829 	EXP 	text_3: autoDraw = True
+4.7599 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '头酒')])
+4.7659 	EXP 	text_3: autoDraw = False
+4.7659 	EXP 	text_3: autoDraw = False
+4.7659 	EXP 	text_3: height = 0.05
+4.7659 	EXP 	text_3: height = 0.05
+4.7659 	EXP 	text_3: height = 0.05
+4.7659 	EXP 	text_3: text = '头酒'
+4.7659 	EXP 	text_3: autoDraw = True
+4.8333 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '姓败')])
+4.8498 	EXP 	text_3: autoDraw = False
+4.8498 	EXP 	text_3: autoDraw = False
+4.8498 	EXP 	text_3: height = 0.05
+4.8498 	EXP 	text_3: height = 0.05
+4.8498 	EXP 	text_3: height = 0.05
+4.8498 	EXP 	text_3: text = '姓败'
+4.8498 	EXP 	text_3: autoDraw = True
+4.9167 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+4.9328 	EXP 	text_3: autoDraw = False
+4.9328 	EXP 	text_3: autoDraw = False
+4.9328 	EXP 	text_3: height = 0.05
+4.9328 	EXP 	text_3: height = 0.05
+4.9328 	EXP 	text_3: height = 0.05
+4.9328 	EXP 	text_3: text = '动加'
+4.9328 	EXP 	text_3: autoDraw = True
+5.0158 	EXP 	text_3: autoDraw = False
+5.0158 	EXP 	text_3: autoDraw = False
+5.0158 	EXP 	text_6: autoDraw = True
+6.0159 	EXP 	text_6: autoDraw = False
+6.0159 	EXP 	text_7: autoDraw = True
+7.2661 	EXP 	text_6: autoDraw = False
+7.2661 	EXP 	text_7: autoDraw = False
+7.2661 	EXP 	text_8: autoDraw = False
+7.2661 	EXP 	text_2: autoDraw = True
+8.2517 	EXP 	text_11: autoDraw = True
+8.2686 	EXP 	text_2: autoDraw = False
+9.4892 	DATA 	KeyPress: f
+10.2657 	EXP 	text_11: autoDraw = False
+10.2657 	EXP 	text_10: autoDraw = True
+10.9005 	DATA 	Keypress: f
+11.2498 	EXP 	New trial (rep=0, index=1): OrderedDict([('probe', '窗帘'), ('sectag', '帘幔'), ('relatedu', ' f'), ('firstnum', '0:06'), ('dis1num', '0:06'), ('dis2num', '0:06'), ('bignum', '三三'), ('oddeven', 'f')])
+11.2658 	EXP 	text_10: autoDraw = False
+11.2658 	EXP 	text_2: autoDraw = False
+11.2658 	EXP 	text_11: autoDraw = False
+11.2658 	EXP 	text_10: autoDraw = False
+11.2658 	EXP 	cuesti: height = 0.05
+11.2658 	EXP 	cuesti: height = 0.05
+11.2658 	EXP 	cuesti: height = 0.05
+11.2658 	EXP 	cuesti: text = '窗帘'
+11.2658 	EXP 	cuesti: autoDraw = True
+12.2657 	EXP 	cuesti: autoDraw = False
+12.2657 	EXP 	cueblank: autoDraw = True
+13.2573 	EXP 	Imported distractorlist.csv as conditions, 6 conditions, 1 params
+13.2577 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+13.2578 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '头酒')])
+13.2658 	EXP 	cueblank: autoDraw = False
+13.2658 	EXP 	cuesti: autoDraw = False
+13.2658 	EXP 	cueblank: autoDraw = False
+13.2658 	EXP 	text_3: height = 0.05
+13.2658 	EXP 	text_3: height = 0.05
+13.2658 	EXP 	text_3: height = 0.05
+13.2658 	EXP 	text_3: text = '头酒'
+13.2658 	EXP 	text_3: autoDraw = True
+13.3329 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '蜜缓')])
+13.3491 	EXP 	text_3: autoDraw = False
+13.3491 	EXP 	text_3: autoDraw = False
+13.3491 	EXP 	text_3: height = 0.05
+13.3491 	EXP 	text_3: height = 0.05
+13.3491 	EXP 	text_3: height = 0.05
+13.3491 	EXP 	text_3: text = '蜜缓'
+13.3491 	EXP 	text_3: autoDraw = True
+13.4162 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '痒动')])
+13.4325 	EXP 	text_3: autoDraw = False
+13.4325 	EXP 	text_3: autoDraw = False
+13.4325 	EXP 	text_3: height = 0.05
+13.4325 	EXP 	text_3: height = 0.05
+13.4325 	EXP 	text_3: height = 0.05
+13.4325 	EXP 	text_3: text = '痒动'
+13.4325 	EXP 	text_3: autoDraw = True
+13.4996 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '姓败')])
+13.5158 	EXP 	text_3: autoDraw = False
+13.5158 	EXP 	text_3: autoDraw = False
+13.5158 	EXP 	text_3: height = 0.05
+13.5158 	EXP 	text_3: height = 0.05
+13.5158 	EXP 	text_3: height = 0.05
+13.5158 	EXP 	text_3: text = '姓败'
+13.5158 	EXP 	text_3: autoDraw = True
+13.5827 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+13.5992 	EXP 	text_3: autoDraw = False
+13.5992 	EXP 	text_3: autoDraw = False
+13.5992 	EXP 	text_3: height = 0.05
+13.5992 	EXP 	text_3: height = 0.05
+13.5992 	EXP 	text_3: height = 0.05
+13.5992 	EXP 	text_3: text = '动加'
+13.5992 	EXP 	text_3: autoDraw = True
+13.6662 	EXP 	New trial (rep=0, index=5): OrderedDict([('dislist', '听唇')])
+13.6822 	EXP 	text_3: autoDraw = False
+13.6822 	EXP 	text_3: autoDraw = False
+13.6822 	EXP 	text_3: height = 0.05
+13.6822 	EXP 	text_3: height = 0.05
+13.6822 	EXP 	text_3: height = 0.05
+13.6822 	EXP 	text_3: text = '听唇'
+13.6822 	EXP 	text_3: autoDraw = True
+13.7657 	EXP 	text_3: autoDraw = False
+13.7657 	EXP 	text_3: autoDraw = False
+13.7657 	EXP 	text_5: height = 0.05
+13.7657 	EXP 	text_5: height = 0.05
+13.7657 	EXP 	text_5: height = 0.05
+13.7657 	EXP 	text_5: text = '三三'
+13.8658 	EXP 	text_5: autoDraw = True
+13.9371 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+13.9374 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+13.9375 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '痒动')])
+13.9490 	EXP 	text_5: autoDraw = False
+13.9490 	EXP 	text_5: autoDraw = False
+13.9490 	EXP 	text_3: height = 0.05
+13.9490 	EXP 	text_3: height = 0.05
+13.9490 	EXP 	text_3: height = 0.05
+13.9490 	EXP 	text_3: text = '痒动'
+13.9490 	EXP 	text_3: autoDraw = True
+14.0167 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '蜜缓')])
+14.0326 	EXP 	text_3: autoDraw = False
+14.0326 	EXP 	text_3: autoDraw = False
+14.0326 	EXP 	text_3: height = 0.05
+14.0326 	EXP 	text_3: height = 0.05
+14.0326 	EXP 	text_3: height = 0.05
+14.0326 	EXP 	text_3: text = '蜜缓'
+14.0326 	EXP 	text_3: autoDraw = True
+14.0996 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '头酒')])
+14.1157 	EXP 	text_3: autoDraw = False
+14.1157 	EXP 	text_3: autoDraw = False
+14.1157 	EXP 	text_3: height = 0.05
+14.1157 	EXP 	text_3: height = 0.05
+14.1157 	EXP 	text_3: height = 0.05
+14.1157 	EXP 	text_3: text = '头酒'
+14.1157 	EXP 	text_3: autoDraw = True
+14.1830 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '姓败')])
+14.1991 	EXP 	text_3: autoDraw = False
+14.1991 	EXP 	text_3: autoDraw = False
+14.1991 	EXP 	text_3: height = 0.05
+14.1991 	EXP 	text_3: height = 0.05
+14.1991 	EXP 	text_3: height = 0.05
+14.1991 	EXP 	text_3: text = '姓败'
+14.1991 	EXP 	text_3: autoDraw = True
+14.2663 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+14.2828 	EXP 	text_3: autoDraw = False
+14.2828 	EXP 	text_3: height = 0.05
+14.2828 	EXP 	text_3: height = 0.05
+14.2828 	EXP 	text_3: height = 0.05
+14.2828 	EXP 	text_3: text = '动加'
+14.2828 	EXP 	text_3: autoDraw = True
+14.3660 	EXP 	text_3: autoDraw = False
+14.3660 	EXP 	text_4: height = 0.05
+14.3660 	EXP 	text_4: height = 0.05
+14.3660 	EXP 	text_4: height = 0.05
+14.3660 	EXP 	text_4: text = '帘幔'
+14.3660 	EXP 	text_FLK1: autoDraw = True
+14.4321 	EXP 	text_4: autoDraw = True
+14.4492 	EXP 	text_FLK1: autoDraw = False
+14.5156 	EXP 	text_4: autoDraw = False
+14.5156 	EXP 	text_FLK2: autoDraw = True
+14.5872 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+14.5875 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+14.5876 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '痒动')])
+14.5992 	EXP 	text_FLK2: autoDraw = False
+14.5992 	EXP 	text_4: autoDraw = False
+14.5992 	EXP 	text_FLK1: autoDraw = False
+14.5992 	EXP 	text_FLK2: autoDraw = False
+14.5992 	EXP 	text_3: height = 0.05
+14.5992 	EXP 	text_3: height = 0.05
+14.5992 	EXP 	text_3: height = 0.05
+14.5992 	EXP 	text_3: text = '痒动'
+14.5992 	EXP 	text_3: autoDraw = True
+14.6663 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '头酒')])
+14.6825 	EXP 	text_3: autoDraw = False
+14.6825 	EXP 	text_3: autoDraw = False
+14.6825 	EXP 	text_3: height = 0.05
+14.6825 	EXP 	text_3: height = 0.05
+14.6825 	EXP 	text_3: height = 0.05
+14.6825 	EXP 	text_3: text = '头酒'
+14.6825 	EXP 	text_3: autoDraw = True
+14.7502 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '姓败')])
+14.7659 	EXP 	text_3: autoDraw = False
+14.7659 	EXP 	text_3: autoDraw = False
+14.7659 	EXP 	text_3: height = 0.05
+14.7659 	EXP 	text_3: height = 0.05
+14.7659 	EXP 	text_3: height = 0.05
+14.7659 	EXP 	text_3: text = '姓败'
+14.7659 	EXP 	text_3: autoDraw = True
+14.8330 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '蜜缓')])
+14.8492 	EXP 	text_3: autoDraw = False
+14.8492 	EXP 	text_3: autoDraw = False
+14.8492 	EXP 	text_3: height = 0.05
+14.8492 	EXP 	text_3: height = 0.05
+14.8492 	EXP 	text_3: height = 0.05
+14.8492 	EXP 	text_3: text = '蜜缓'
+14.8492 	EXP 	text_3: autoDraw = True
+14.9159 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+14.9323 	EXP 	text_3: autoDraw = False
+14.9323 	EXP 	text_3: autoDraw = False
+14.9323 	EXP 	text_3: height = 0.05
+14.9323 	EXP 	text_3: height = 0.05
+14.9323 	EXP 	text_3: height = 0.05
+14.9323 	EXP 	text_3: text = '动加'
+14.9323 	EXP 	text_3: autoDraw = True
+15.0155 	EXP 	text_3: autoDraw = False
+15.0155 	EXP 	text_3: autoDraw = False
+15.0155 	EXP 	text_6: autoDraw = True
+16.0154 	EXP 	text_6: autoDraw = False
+16.0154 	EXP 	text_7: autoDraw = True
+16.1490 	EXP 	text_6: autoDraw = False
+16.1490 	EXP 	text_7: autoDraw = False
+16.1490 	EXP 	text_8: autoDraw = False
+16.1490 	EXP 	text_2: autoDraw = True
+16.1500 	DATA 	Keypress: f
+17.1490 	EXP 	text_2: autoDraw = False
+17.1490 	EXP 	text_11: autoDraw = True
+18.5002 	EXP 	New trial (rep=0, index=2): OrderedDict([('probe', '商店'), ('sectag', '店铺'), ('relatedu', ' f'), ('firstnum', '0:06'), ('dis1num', '0:02'), ('dis2num', '0:10'), ('bignum', '三三'), ('oddeven', 'j')])
+18.5155 	EXP 	text_2: autoDraw = False
+18.5155 	EXP 	text_11: autoDraw = False
+18.5155 	EXP 	text_10: autoDraw = False
+18.5155 	EXP 	cuesti: height = 0.05
+18.5155 	EXP 	cuesti: height = 0.05
+18.5155 	EXP 	cuesti: height = 0.05
+18.5155 	EXP 	cuesti: text = '商店'
+18.5155 	EXP 	cuesti: autoDraw = True
+18.5163 	DATA 	Keypress: f
+19.5152 	EXP 	cuesti: autoDraw = False
+19.5152 	EXP 	cueblank: autoDraw = True
+20.5034 	EXP 	Imported distractorlist.csv as conditions, 6 conditions, 1 params
+20.5036 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+20.5037 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '痒动')])
+20.5155 	EXP 	cueblank: autoDraw = False
+20.5155 	EXP 	cuesti: autoDraw = False
+20.5155 	EXP 	cueblank: autoDraw = False
+20.5155 	EXP 	text_3: height = 0.05
+20.5155 	EXP 	text_3: height = 0.05
+20.5155 	EXP 	text_3: height = 0.05
+20.5155 	EXP 	text_3: text = '痒动'
+20.5155 	EXP 	text_3: autoDraw = True
+20.5827 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '头酒')])
+20.5986 	EXP 	text_3: autoDraw = False
+20.5986 	EXP 	text_3: autoDraw = False
+20.5986 	EXP 	text_3: height = 0.05
+20.5986 	EXP 	text_3: height = 0.05
+20.5986 	EXP 	text_3: height = 0.05
+20.5986 	EXP 	text_3: text = '头酒'
+20.5986 	EXP 	text_3: autoDraw = True
+20.6657 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '姓败')])
+20.6821 	EXP 	text_3: autoDraw = False
+20.6821 	EXP 	text_3: autoDraw = False
+20.6821 	EXP 	text_3: height = 0.05
+20.6821 	EXP 	text_3: height = 0.05
+20.6821 	EXP 	text_3: height = 0.05
+20.6821 	EXP 	text_3: text = '姓败'
+20.6821 	EXP 	text_3: autoDraw = True
+20.7493 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '蜜缓')])
+20.7655 	EXP 	text_3: autoDraw = False
+20.7655 	EXP 	text_3: autoDraw = False
+20.7655 	EXP 	text_3: height = 0.05
+20.7655 	EXP 	text_3: height = 0.05
+20.7655 	EXP 	text_3: height = 0.05
+20.7655 	EXP 	text_3: text = '蜜缓'
+20.7655 	EXP 	text_3: autoDraw = True
+20.8325 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+20.8489 	EXP 	text_3: autoDraw = False
+20.8489 	EXP 	text_3: height = 0.05
+20.8489 	EXP 	text_3: height = 0.05
+20.8489 	EXP 	text_3: height = 0.05
+20.8489 	EXP 	text_3: text = '动加'
+20.8489 	EXP 	text_3: autoDraw = True
+20.9154 	EXP 	New trial (rep=0, index=5): OrderedDict([('dislist', '听唇')])
+20.9322 	EXP 	text_3: autoDraw = False
+20.9322 	EXP 	text_3: height = 0.05
+20.9322 	EXP 	text_3: height = 0.05
+20.9322 	EXP 	text_3: height = 0.05
+20.9322 	EXP 	text_3: text = '听唇'
+20.9322 	EXP 	text_3: autoDraw = True
+21.0155 	EXP 	text_3: autoDraw = False
+21.0155 	EXP 	text_5: text = '三三'
+21.0989 	EXP 	text_5: autoDraw = True
+21.1699 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+21.1701 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+21.1702 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+21.1824 	EXP 	text_5: autoDraw = False
+21.1824 	EXP 	text_5: autoDraw = False
+21.1824 	EXP 	text_3: height = 0.05
+21.1824 	EXP 	text_3: height = 0.05
+21.1824 	EXP 	text_3: height = 0.05
+21.1824 	EXP 	text_3: text = '姓败'
+21.1824 	EXP 	text_3: autoDraw = True
+21.2490 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '蜜缓')])
+21.2656 	EXP 	text_3: autoDraw = False
+21.2656 	EXP 	text_3: autoDraw = False
+21.2656 	EXP 	text_3: height = 0.05
+21.2656 	EXP 	text_3: height = 0.05
+21.2656 	EXP 	text_3: height = 0.05
+21.2656 	EXP 	text_3: text = '蜜缓'
+21.2656 	EXP 	text_3: autoDraw = True
+21.3326 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '动加')])
+21.3489 	EXP 	text_3: autoDraw = False
+21.3489 	EXP 	text_3: autoDraw = False
+21.3489 	EXP 	text_3: height = 0.05
+21.3489 	EXP 	text_3: height = 0.05
+21.3489 	EXP 	text_3: height = 0.05
+21.3489 	EXP 	text_3: text = '动加'
+21.3489 	EXP 	text_3: autoDraw = True
+21.4158 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '头酒')])
+21.4320 	EXP 	text_3: autoDraw = False
+21.4320 	EXP 	text_3: autoDraw = False
+21.4320 	EXP 	text_3: height = 0.05
+21.4320 	EXP 	text_3: height = 0.05
+21.4320 	EXP 	text_3: height = 0.05
+21.4320 	EXP 	text_3: text = '头酒'
+21.4320 	EXP 	text_3: autoDraw = True
+21.4992 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '痒动')])
+21.5152 	EXP 	text_3: autoDraw = False
+21.5152 	EXP 	text_3: autoDraw = False
+21.5152 	EXP 	text_3: height = 0.05
+21.5152 	EXP 	text_3: height = 0.05
+21.5152 	EXP 	text_3: height = 0.05
+21.5152 	EXP 	text_3: text = '痒动'
+21.5152 	EXP 	text_3: autoDraw = True
+21.5986 	EXP 	text_3: autoDraw = False
+21.5986 	EXP 	text_3: autoDraw = False
+21.5986 	EXP 	text_4: height = 0.05
+21.5986 	EXP 	text_4: height = 0.05
+21.5986 	EXP 	text_4: height = 0.05
+21.5986 	EXP 	text_4: text = '店铺'
+21.5986 	EXP 	text_FLK1: autoDraw = True
+21.6821 	EXP 	text_4: autoDraw = True
+21.6821 	EXP 	text_FLK1: autoDraw = False
+21.7655 	EXP 	text_4: autoDraw = False
+21.7655 	EXP 	text_FLK2: autoDraw = True
+21.8371 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+21.8373 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+21.8374 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+21.8489 	EXP 	text_FLK2: autoDraw = False
+21.8489 	EXP 	text_4: autoDraw = False
+21.8489 	EXP 	text_FLK1: autoDraw = False
+21.8489 	EXP 	text_FLK2: autoDraw = False
+21.8489 	EXP 	text_3: height = 0.05
+21.8489 	EXP 	text_3: height = 0.05
+21.8489 	EXP 	text_3: height = 0.05
+21.8489 	EXP 	text_3: text = '姓败'
+21.8489 	EXP 	text_3: autoDraw = True
+21.9160 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '痒动')])
+21.9320 	EXP 	text_3: autoDraw = False
+21.9320 	EXP 	text_3: autoDraw = False
+21.9320 	EXP 	text_3: height = 0.05
+21.9320 	EXP 	text_3: height = 0.05
+21.9320 	EXP 	text_3: height = 0.05
+21.9320 	EXP 	text_3: text = '痒动'
+21.9320 	EXP 	text_3: autoDraw = True
+21.9990 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '动加')])
+22.0153 	EXP 	text_3: autoDraw = False
+22.0153 	EXP 	text_3: autoDraw = False
+22.0153 	EXP 	text_3: height = 0.05
+22.0153 	EXP 	text_3: height = 0.05
+22.0153 	EXP 	text_3: height = 0.05
+22.0153 	EXP 	text_3: text = '动加'
+22.0153 	EXP 	text_3: autoDraw = True
+22.0827 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '蜜缓')])
+22.0988 	EXP 	text_3: autoDraw = False
+22.0988 	EXP 	text_3: autoDraw = False
+22.0988 	EXP 	text_3: height = 0.05
+22.0988 	EXP 	text_3: height = 0.05
+22.0988 	EXP 	text_3: height = 0.05
+22.0988 	EXP 	text_3: text = '蜜缓'
+22.0988 	EXP 	text_3: autoDraw = True
+22.1655 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '头酒')])
+22.1817 	EXP 	text_3: autoDraw = False
+22.1817 	EXP 	text_3: autoDraw = False
+22.1817 	EXP 	text_3: height = 0.05
+22.1817 	EXP 	text_3: height = 0.05
+22.1817 	EXP 	text_3: height = 0.05
+22.1817 	EXP 	text_3: text = '头酒'
+22.1817 	EXP 	text_3: autoDraw = True
+22.2653 	EXP 	text_3: autoDraw = False
+22.2653 	EXP 	text_3: autoDraw = False
+22.2653 	EXP 	text_6: autoDraw = True
+23.2652 	EXP 	text_6: autoDraw = False
+23.2652 	EXP 	text_7: autoDraw = True
+23.9154 	EXP 	text_6: autoDraw = False
+23.9154 	EXP 	text_7: autoDraw = False
+23.9154 	EXP 	text_8: autoDraw = False
+23.9154 	EXP 	text_2: autoDraw = True
+23.9162 	DATA 	Keypress: f
+24.8986 	EXP 	text_11: autoDraw = True
+24.9153 	EXP 	text_2: autoDraw = False
+25.6327 	EXP 	New trial (rep=0, index=3): OrderedDict([('probe', '猫咪'), ('sectag', '小猫'), ('relatedu', ' f'), ('firstnum', '0:09'), ('dis1num', '0:02'), ('dis2num', '0:03'), ('bignum', '五五'), ('oddeven', 'f')])
+25.6486 	EXP 	text_2: autoDraw = False
+25.6486 	EXP 	text_11: autoDraw = False
+25.6486 	EXP 	text_10: autoDraw = False
+25.6486 	EXP 	cuesti: height = 0.05
+25.6486 	EXP 	cuesti: height = 0.05
+25.6486 	EXP 	cuesti: height = 0.05
+25.6486 	EXP 	cuesti: text = '猫咪'
+25.6486 	EXP 	cuesti: autoDraw = True
+25.6494 	DATA 	Keypress: f
+26.6317 	EXP 	cueblank: autoDraw = True
+26.6483 	EXP 	cuesti: autoDraw = False
+27.6198 	EXP 	Imported distractorlist.csv as conditions, 9 conditions, 1 params
+27.6200 	EXP 	Created sequence: random, trialTypes=9, nReps=1, seed=None
+27.6202 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+27.6317 	EXP 	cueblank: autoDraw = False
+27.6317 	EXP 	cuesti: autoDraw = False
+27.6317 	EXP 	cueblank: autoDraw = False
+27.6317 	EXP 	text_3: height = 0.05
+27.6317 	EXP 	text_3: height = 0.05
+27.6317 	EXP 	text_3: height = 0.05
+27.6317 	EXP 	text_3: text = '姓败'
+27.6486 	EXP 	text_3: autoDraw = True
+27.7158 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '动加')])
+27.7318 	EXP 	text_3: autoDraw = False
+27.7318 	EXP 	text_3: autoDraw = False
+27.7318 	EXP 	text_3: height = 0.05
+27.7318 	EXP 	text_3: height = 0.05
+27.7318 	EXP 	text_3: height = 0.05
+27.7318 	EXP 	text_3: text = '动加'
+27.7318 	EXP 	text_3: autoDraw = True
+27.7990 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '蜜缓')])
+27.8151 	EXP 	text_3: autoDraw = False
+27.8151 	EXP 	text_3: autoDraw = False
+27.8151 	EXP 	text_3: height = 0.05
+27.8151 	EXP 	text_3: height = 0.05
+27.8151 	EXP 	text_3: height = 0.05
+27.8151 	EXP 	text_3: text = '蜜缓'
+27.8151 	EXP 	text_3: autoDraw = True
+27.8822 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '弱杏')])
+27.8988 	EXP 	text_3: autoDraw = False
+27.8988 	EXP 	text_3: height = 0.05
+27.8988 	EXP 	text_3: height = 0.05
+27.8988 	EXP 	text_3: height = 0.05
+27.8988 	EXP 	text_3: text = '弱杏'
+27.8988 	EXP 	text_3: autoDraw = True
+27.9655 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '痒动')])
+27.9816 	EXP 	text_3: autoDraw = False
+27.9816 	EXP 	text_3: height = 0.05
+27.9816 	EXP 	text_3: height = 0.05
+27.9816 	EXP 	text_3: height = 0.05
+27.9816 	EXP 	text_3: text = '痒动'
+27.9816 	EXP 	text_3: autoDraw = True
+28.0488 	EXP 	New trial (rep=0, index=5): OrderedDict([('dislist', '听唇')])
+28.0652 	EXP 	text_3: autoDraw = False
+28.0652 	EXP 	text_3: height = 0.05
+28.0652 	EXP 	text_3: height = 0.05
+28.0652 	EXP 	text_3: height = 0.05
+28.0652 	EXP 	text_3: text = '听唇'
+28.0652 	EXP 	text_3: autoDraw = True
+28.1319 	EXP 	New trial (rep=0, index=6): OrderedDict([('dislist', '头酒')])
+28.1484 	EXP 	text_3: autoDraw = False
+28.1484 	EXP 	text_3: height = 0.05
+28.1484 	EXP 	text_3: height = 0.05
+28.1484 	EXP 	text_3: height = 0.05
+28.1484 	EXP 	text_3: text = '头酒'
+28.1484 	EXP 	text_3: autoDraw = True
+28.2154 	EXP 	New trial (rep=0, index=7): OrderedDict([('dislist', '味对')])
+28.2319 	EXP 	text_3: autoDraw = False
+28.2319 	EXP 	text_3: height = 0.05
+28.2319 	EXP 	text_3: height = 0.05
+28.2319 	EXP 	text_3: height = 0.05
+28.2319 	EXP 	text_3: text = '味对'
+28.2319 	EXP 	text_3: autoDraw = True
+28.2986 	EXP 	New trial (rep=0, index=8): OrderedDict([('dislist', '流片')])
+28.3151 	EXP 	text_3: autoDraw = False
+28.3151 	EXP 	text_3: height = 0.05
+28.3151 	EXP 	text_3: height = 0.05
+28.3151 	EXP 	text_3: height = 0.05
+28.3151 	EXP 	text_3: text = '流片'
+28.3151 	EXP 	text_3: autoDraw = True
+28.3983 	EXP 	text_3: autoDraw = False
+28.3983 	EXP 	text_5: height = 0.05
+28.3983 	EXP 	text_5: height = 0.05
+28.3983 	EXP 	text_5: height = 0.05
+28.3983 	EXP 	text_5: text = '五五'
+28.4816 	EXP 	text_5: autoDraw = True
+28.5536 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+28.5538 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+28.5539 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '头酒')])
+28.5653 	EXP 	text_5: autoDraw = False
+28.5653 	EXP 	text_5: autoDraw = False
+28.5653 	EXP 	text_3: height = 0.05
+28.5653 	EXP 	text_3: height = 0.05
+28.5653 	EXP 	text_3: height = 0.05
+28.5653 	EXP 	text_3: text = '头酒'
+28.5653 	EXP 	text_3: autoDraw = True
+28.6323 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '蜜缓')])
+28.6484 	EXP 	text_3: autoDraw = False
+28.6484 	EXP 	text_3: autoDraw = False
+28.6484 	EXP 	text_3: height = 0.05
+28.6484 	EXP 	text_3: height = 0.05
+28.6484 	EXP 	text_3: height = 0.05
+28.6484 	EXP 	text_3: text = '蜜缓'
+28.6484 	EXP 	text_3: autoDraw = True
+28.7156 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '动加')])
+28.7318 	EXP 	text_3: autoDraw = False
+28.7318 	EXP 	text_3: autoDraw = False
+28.7318 	EXP 	text_3: height = 0.05
+28.7318 	EXP 	text_3: height = 0.05
+28.7318 	EXP 	text_3: height = 0.05
+28.7318 	EXP 	text_3: text = '动加'
+28.7318 	EXP 	text_3: autoDraw = True
+28.7990 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '痒动')])
+28.8150 	EXP 	text_3: autoDraw = False
+28.8150 	EXP 	text_3: autoDraw = False
+28.8150 	EXP 	text_3: height = 0.05
+28.8150 	EXP 	text_3: height = 0.05
+28.8150 	EXP 	text_3: height = 0.05
+28.8150 	EXP 	text_3: text = '痒动'
+28.8150 	EXP 	text_3: autoDraw = True
+28.8827 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '姓败')])
+28.8987 	EXP 	text_3: autoDraw = False
+28.8987 	EXP 	text_3: autoDraw = False
+28.8987 	EXP 	text_3: height = 0.05
+28.8987 	EXP 	text_3: height = 0.05
+28.8987 	EXP 	text_3: height = 0.05
+28.8987 	EXP 	text_3: text = '姓败'
+28.8987 	EXP 	text_3: autoDraw = True
+28.9818 	EXP 	text_3: autoDraw = False
+28.9818 	EXP 	text_3: autoDraw = False
+28.9818 	EXP 	text_4: height = 0.05
+28.9818 	EXP 	text_4: height = 0.05
+28.9818 	EXP 	text_4: height = 0.05
+28.9818 	EXP 	text_4: text = '小猫'
+28.9818 	EXP 	text_FLK1: autoDraw = True
+29.0650 	EXP 	text_4: autoDraw = True
+29.0650 	EXP 	text_FLK1: autoDraw = False
+29.1485 	EXP 	text_4: autoDraw = False
+29.1485 	EXP 	text_FLK2: autoDraw = True
+29.2194 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+29.2196 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+29.2197 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '蜜缓')])
+29.2320 	EXP 	text_FLK2: autoDraw = False
+29.2320 	EXP 	text_4: autoDraw = False
+29.2320 	EXP 	text_FLK1: autoDraw = False
+29.2320 	EXP 	text_FLK2: autoDraw = False
+29.2320 	EXP 	text_3: height = 0.05
+29.2320 	EXP 	text_3: height = 0.05
+29.2320 	EXP 	text_3: height = 0.05
+29.2320 	EXP 	text_3: text = '蜜缓'
+29.2320 	EXP 	text_3: autoDraw = True
+29.2989 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '痒动')])
+29.3149 	EXP 	text_3: autoDraw = False
+29.3149 	EXP 	text_3: autoDraw = False
+29.3149 	EXP 	text_3: height = 0.05
+29.3149 	EXP 	text_3: height = 0.05
+29.3149 	EXP 	text_3: height = 0.05
+29.3149 	EXP 	text_3: text = '痒动'
+29.3149 	EXP 	text_3: autoDraw = True
+29.3823 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '姓败')])
+29.3986 	EXP 	text_3: autoDraw = False
+29.3986 	EXP 	text_3: autoDraw = False
+29.3986 	EXP 	text_3: height = 0.05
+29.3986 	EXP 	text_3: height = 0.05
+29.3986 	EXP 	text_3: height = 0.05
+29.3986 	EXP 	text_3: text = '姓败'
+29.3986 	EXP 	text_3: autoDraw = True
+29.4656 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '动加')])
+29.4816 	EXP 	text_3: autoDraw = False
+29.4816 	EXP 	text_3: autoDraw = False
+29.4816 	EXP 	text_3: height = 0.05
+29.4816 	EXP 	text_3: height = 0.05
+29.4816 	EXP 	text_3: height = 0.05
+29.4816 	EXP 	text_3: text = '动加'
+29.4816 	EXP 	text_3: autoDraw = True
+29.5487 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '头酒')])
+29.5652 	EXP 	text_3: autoDraw = False
+29.5652 	EXP 	text_3: autoDraw = False
+29.5652 	EXP 	text_3: height = 0.05
+29.5652 	EXP 	text_3: height = 0.05
+29.5652 	EXP 	text_3: height = 0.05
+29.5652 	EXP 	text_3: text = '头酒'
+29.5652 	EXP 	text_3: autoDraw = True
+29.6481 	EXP 	text_3: autoDraw = False
+29.6481 	EXP 	text_3: autoDraw = False
+29.6481 	EXP 	text_6: autoDraw = True
+30.6485 	EXP 	text_6: autoDraw = False
+30.6485 	EXP 	text_7: autoDraw = True
+32.5815 	EXP 	text_6: autoDraw = False
+32.5815 	EXP 	text_7: autoDraw = False
+32.5815 	EXP 	text_8: autoDraw = False
+32.5815 	EXP 	text_2: autoDraw = True
+32.5824 	DATA 	Keypress: f
+33.5648 	EXP 	text_11: autoDraw = True
+33.5815 	EXP 	text_2: autoDraw = False
+34.6988 	EXP 	New trial (rep=0, index=4): OrderedDict([('probe', '思考'), ('sectag', '沉思'), ('relatedu', ' f'), ('firstnum', '0:09'), ('dis1num', 0.0), ('dis2num', '0:07'), ('bignum', '二二'), ('oddeven', 'j')])
+34.7148 	EXP 	text_2: autoDraw = False
+34.7148 	EXP 	text_11: autoDraw = False
+34.7148 	EXP 	text_10: autoDraw = False
+34.7148 	EXP 	cuesti: height = 0.05
+34.7148 	EXP 	cuesti: height = 0.05
+34.7148 	EXP 	cuesti: height = 0.05
+34.7148 	EXP 	cuesti: text = '思考'
+34.7148 	EXP 	cuesti: autoDraw = True
+34.7156 	DATA 	Keypress: f
+35.6980 	EXP 	cueblank: autoDraw = True
+35.7146 	EXP 	cuesti: autoDraw = False
+36.6864 	EXP 	Imported distractorlist.csv as conditions, 9 conditions, 1 params
+36.6866 	EXP 	Created sequence: random, trialTypes=9, nReps=1, seed=None
+36.6867 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+36.6983 	EXP 	cueblank: autoDraw = False
+36.6983 	EXP 	cuesti: autoDraw = False
+36.6983 	EXP 	cueblank: autoDraw = False
+36.6983 	EXP 	text_3: height = 0.05
+36.6983 	EXP 	text_3: height = 0.05
+36.6983 	EXP 	text_3: height = 0.05
+36.6983 	EXP 	text_3: text = '姓败'
+36.6983 	EXP 	text_3: autoDraw = True
+36.7654 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '头酒')])
+36.7815 	EXP 	text_3: autoDraw = False
+36.7815 	EXP 	text_3: autoDraw = False
+36.7815 	EXP 	text_3: height = 0.05
+36.7815 	EXP 	text_3: height = 0.05
+36.7815 	EXP 	text_3: height = 0.05
+36.7815 	EXP 	text_3: text = '头酒'
+36.7815 	EXP 	text_3: autoDraw = True
+36.8486 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '蜜缓')])
+36.8646 	EXP 	text_3: autoDraw = False
+36.8646 	EXP 	text_3: autoDraw = False
+36.8646 	EXP 	text_3: height = 0.05
+36.8646 	EXP 	text_3: height = 0.05
+36.8646 	EXP 	text_3: height = 0.05
+36.8646 	EXP 	text_3: text = '蜜缓'
+36.8646 	EXP 	text_3: autoDraw = True
+36.9320 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '味对')])
+36.9480 	EXP 	text_3: autoDraw = False
+36.9480 	EXP 	text_3: autoDraw = False
+36.9480 	EXP 	text_3: height = 0.05
+36.9480 	EXP 	text_3: height = 0.05
+36.9480 	EXP 	text_3: height = 0.05
+36.9480 	EXP 	text_3: text = '味对'
+36.9480 	EXP 	text_3: autoDraw = True
+37.0153 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '痒动')])
+37.0316 	EXP 	text_3: autoDraw = False
+37.0316 	EXP 	text_3: autoDraw = False
+37.0316 	EXP 	text_3: height = 0.05
+37.0316 	EXP 	text_3: height = 0.05
+37.0316 	EXP 	text_3: height = 0.05
+37.0316 	EXP 	text_3: text = '痒动'
+37.0316 	EXP 	text_3: autoDraw = True
+37.0985 	EXP 	New trial (rep=0, index=5): OrderedDict([('dislist', '流片')])
+37.1146 	EXP 	text_3: autoDraw = False
+37.1146 	EXP 	text_3: autoDraw = False
+37.1146 	EXP 	text_3: height = 0.05
+37.1146 	EXP 	text_3: height = 0.05
+37.1146 	EXP 	text_3: height = 0.05
+37.1146 	EXP 	text_3: text = '流片'
+37.1146 	EXP 	text_3: autoDraw = True
+37.1820 	EXP 	New trial (rep=0, index=6): OrderedDict([('dislist', '听唇')])
+37.1981 	EXP 	text_3: autoDraw = False
+37.1981 	EXP 	text_3: autoDraw = False
+37.1981 	EXP 	text_3: height = 0.05
+37.1981 	EXP 	text_3: height = 0.05
+37.1981 	EXP 	text_3: height = 0.05
+37.1981 	EXP 	text_3: text = '听唇'
+37.1981 	EXP 	text_3: autoDraw = True
+37.2654 	EXP 	New trial (rep=0, index=7): OrderedDict([('dislist', '弱杏')])
+37.2815 	EXP 	text_3: autoDraw = False
+37.2815 	EXP 	text_3: autoDraw = False
+37.2815 	EXP 	text_3: height = 0.05
+37.2815 	EXP 	text_3: height = 0.05
+37.2815 	EXP 	text_3: height = 0.05
+37.2815 	EXP 	text_3: text = '弱杏'
+37.2815 	EXP 	text_3: autoDraw = True
+37.3488 	EXP 	New trial (rep=0, index=8): OrderedDict([('dislist', '动加')])
+37.3645 	EXP 	text_3: autoDraw = False
+37.3645 	EXP 	text_3: autoDraw = False
+37.3645 	EXP 	text_3: height = 0.05
+37.3645 	EXP 	text_3: height = 0.05
+37.3645 	EXP 	text_3: height = 0.05
+37.3645 	EXP 	text_3: text = '动加'
+37.3645 	EXP 	text_3: autoDraw = True
+37.4480 	EXP 	text_3: autoDraw = False
+37.4480 	EXP 	text_3: autoDraw = False
+37.4480 	EXP 	text_5: height = 0.05
+37.4480 	EXP 	text_5: height = 0.05
+37.4480 	EXP 	text_5: height = 0.05
+37.4480 	EXP 	text_5: text = '二二'
+37.5482 	EXP 	text_5: autoDraw = True
+37.6195 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+37.6197 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+37.6198 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '姓败')])
+37.6316 	EXP 	text_5: autoDraw = False
+37.6316 	EXP 	text_5: autoDraw = False
+37.6316 	EXP 	text_3: height = 0.05
+37.6316 	EXP 	text_3: height = 0.05
+37.6316 	EXP 	text_3: height = 0.05
+37.6316 	EXP 	text_3: text = '姓败'
+37.6316 	EXP 	text_3: autoDraw = True
+37.6986 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '蜜缓')])
+37.7144 	EXP 	text_3: autoDraw = False
+37.7144 	EXP 	text_3: autoDraw = False
+37.7144 	EXP 	text_3: height = 0.05
+37.7144 	EXP 	text_3: height = 0.05
+37.7144 	EXP 	text_3: height = 0.05
+37.7144 	EXP 	text_3: text = '蜜缓'
+37.7144 	EXP 	text_3: autoDraw = True
+37.7821 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '痒动')])
+37.7980 	EXP 	text_3: autoDraw = False
+37.7980 	EXP 	text_3: autoDraw = False
+37.7980 	EXP 	text_3: height = 0.05
+37.7980 	EXP 	text_3: height = 0.05
+37.7980 	EXP 	text_3: height = 0.05
+37.7980 	EXP 	text_3: text = '痒动'
+37.7980 	EXP 	text_3: autoDraw = True
+37.8653 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '头酒')])
+37.8815 	EXP 	text_3: autoDraw = False
+37.8815 	EXP 	text_3: autoDraw = False
+37.8815 	EXP 	text_3: height = 0.05
+37.8815 	EXP 	text_3: height = 0.05
+37.8815 	EXP 	text_3: height = 0.05
+37.8815 	EXP 	text_3: text = '头酒'
+37.8815 	EXP 	text_3: autoDraw = True
+37.9485 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '动加')])
+37.9647 	EXP 	text_3: autoDraw = False
+37.9647 	EXP 	text_3: autoDraw = False
+37.9647 	EXP 	text_3: height = 0.05
+37.9647 	EXP 	text_3: height = 0.05
+37.9647 	EXP 	text_3: height = 0.05
+37.9647 	EXP 	text_3: text = '动加'
+37.9647 	EXP 	text_3: autoDraw = True
+38.0481 	EXP 	text_3: autoDraw = False
+38.0481 	EXP 	text_3: autoDraw = False
+38.0481 	EXP 	text_4: height = 0.05
+38.0481 	EXP 	text_4: height = 0.05
+38.0481 	EXP 	text_4: height = 0.05
+38.0481 	EXP 	text_4: text = '沉思'
+38.0481 	EXP 	text_FLK1: autoDraw = True
+38.1311 	EXP 	text_4: autoDraw = True
+38.1311 	EXP 	text_FLK1: autoDraw = False
+38.2148 	EXP 	text_4: autoDraw = False
+38.2148 	EXP 	text_FLK2: autoDraw = True
+38.2862 	EXP 	Imported distractorlist.csv as conditions, 5 conditions, 1 params
+38.2864 	EXP 	Created sequence: random, trialTypes=5, nReps=1, seed=None
+38.2865 	EXP 	New trial (rep=0, index=0): OrderedDict([('dislist', '痒动')])
+38.2981 	EXP 	text_FLK2: autoDraw = False
+38.2981 	EXP 	text_4: autoDraw = False
+38.2981 	EXP 	text_FLK1: autoDraw = False
+38.2981 	EXP 	text_FLK2: autoDraw = False
+38.2981 	EXP 	text_3: height = 0.05
+38.2981 	EXP 	text_3: height = 0.05
+38.2981 	EXP 	text_3: height = 0.05
+38.2981 	EXP 	text_3: text = '痒动'
+38.2981 	EXP 	text_3: autoDraw = True
+38.3654 	EXP 	New trial (rep=0, index=1): OrderedDict([('dislist', '姓败')])
+38.3814 	EXP 	text_3: autoDraw = False
+38.3814 	EXP 	text_3: autoDraw = False
+38.3814 	EXP 	text_3: height = 0.05
+38.3814 	EXP 	text_3: height = 0.05
+38.3814 	EXP 	text_3: height = 0.05
+38.3814 	EXP 	text_3: text = '姓败'
+38.3814 	EXP 	text_3: autoDraw = True
+38.4485 	EXP 	New trial (rep=0, index=2): OrderedDict([('dislist', '动加')])
+38.4646 	EXP 	text_3: autoDraw = False
+38.4646 	EXP 	text_3: autoDraw = False
+38.4646 	EXP 	text_3: height = 0.05
+38.4646 	EXP 	text_3: height = 0.05
+38.4646 	EXP 	text_3: height = 0.05
+38.4646 	EXP 	text_3: text = '动加'
+38.4646 	EXP 	text_3: autoDraw = True
+38.5317 	EXP 	New trial (rep=0, index=3): OrderedDict([('dislist', '头酒')])
+38.5480 	EXP 	text_3: autoDraw = False
+38.5480 	EXP 	text_3: autoDraw = False
+38.5480 	EXP 	text_3: height = 0.05
+38.5480 	EXP 	text_3: height = 0.05
+38.5480 	EXP 	text_3: height = 0.05
+38.5480 	EXP 	text_3: text = '头酒'
+38.5480 	EXP 	text_3: autoDraw = True
+38.6150 	EXP 	New trial (rep=0, index=4): OrderedDict([('dislist', '蜜缓')])
+38.6313 	EXP 	text_3: autoDraw = False
+38.6313 	EXP 	text_3: autoDraw = False
+38.6313 	EXP 	text_3: height = 0.05
+38.6313 	EXP 	text_3: height = 0.05
+38.6313 	EXP 	text_3: height = 0.05
+38.6313 	EXP 	text_3: text = '蜜缓'
+38.6313 	EXP 	text_3: autoDraw = True
+38.7144 	EXP 	text_3: autoDraw = False
+38.7144 	EXP 	text_3: autoDraw = False
+38.7144 	EXP 	text_6: autoDraw = True
+39.7146 	EXP 	text_6: autoDraw = False
+39.7146 	EXP 	text_7: autoDraw = True
+41.4811 	EXP 	text_6: autoDraw = False
+41.4811 	EXP 	text_7: autoDraw = False
+41.4811 	EXP 	text_8: autoDraw = False
+41.4811 	EXP 	text_2: autoDraw = True
+41.4819 	DATA 	Keypress: f
+42.4646 	EXP 	text_11: autoDraw = True
+42.4810 	EXP 	text_2: autoDraw = False
+43.7812 	EXP 	text_2: autoDraw = False
+43.7812 	EXP 	text_11: autoDraw = False
+43.7812 	EXP 	text_10: autoDraw = False
+43.7813 	EXP 	AB: status = STOPPED
+43.7982 	DATA 	Keypress: f
+43.9442 	EXP 	window1: mouseVisible = True
